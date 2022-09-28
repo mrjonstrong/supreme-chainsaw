@@ -10,7 +10,7 @@ title = "jonathanstrong.org"
 description = "A blog about infosec"
 # copyright = "Copyright, _right?_ :thinking_face:"
 
-{{ dateFormat = "Monday 2 January 2006 15:04 BST" .Date.UTC }}
+dateFormat = "Monday 2 January 2006 15:04 BST"
 
 [author]
   name = "Jonathan Strong"
