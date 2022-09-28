@@ -5,15 +5,15 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Blowfish"
+title = "jonathanstrong.org"
 # logo = "img/logo.png"
-description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
+description = "A blog about infosec"
+# copyright = "Copyright, _right?_ :thinking_face:"
 
-dateFormat = "2 January 2006"
+{{ dateFormat = "Monday 2 January 2006 15:04 BST" .Date.UTC }}
 
 [author]
-  name = "Your name here"
+  name = "Jonathan Strong"
   image = "img/blowfish_logo.png"
   headline = "I'm only human"
   bio = "A little bit about you"
